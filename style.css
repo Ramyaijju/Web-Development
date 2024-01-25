@@ -1,0 +1,12 @@
+body{
+    background-image: url("ib.webp");
+    background-attachment: scroll;
+   background-repeat: repeat;
+}
+h1{
+    color:brown;
+
+}
+p1{
+    color: blue;
+}
